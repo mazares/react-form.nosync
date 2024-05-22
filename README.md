@@ -1,5 +1,6 @@
 # React + TypeScript + Vite react-hook-form zod
 
+https://gleaming-centaur-280e51.netlify.app/
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
